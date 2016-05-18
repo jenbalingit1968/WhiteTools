@@ -1,0 +1,10 @@
+C:\WhiteTools\WhiteTools\Core.Data\bin\Debug\Core.Data.dll.config
+C:\WhiteTools\WhiteTools\Core.Data\bin\Debug\Core.Data.dll
+C:\WhiteTools\WhiteTools\Core.Data\bin\Debug\Core.Data.pdb
+C:\WhiteTools\WhiteTools\Core.Data\bin\Debug\EntityFramework.dll
+C:\WhiteTools\WhiteTools\Core.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\WhiteTools\WhiteTools\Core.Data\bin\Debug\EntityFramework.xml
+C:\WhiteTools\WhiteTools\Core.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\WhiteTools\WhiteTools\Core.Data\obj\Debug\Core.Data.csprojResolveAssemblyReference.cache
+C:\WhiteTools\WhiteTools\Core.Data\obj\Debug\Core.Data.dll
+C:\WhiteTools\WhiteTools\Core.Data\obj\Debug\Core.Data.pdb

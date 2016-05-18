@@ -1,0 +1,5 @@
+C:\WhiteTools\WhiteTools\Services\User\bin\Debug\User.dll
+C:\WhiteTools\WhiteTools\Services\User\bin\Debug\User.pdb
+C:\WhiteTools\WhiteTools\Services\User\obj\Debug\User.csprojResolveAssemblyReference.cache
+C:\WhiteTools\WhiteTools\Services\User\obj\Debug\User.dll
+C:\WhiteTools\WhiteTools\Services\User\obj\Debug\User.pdb

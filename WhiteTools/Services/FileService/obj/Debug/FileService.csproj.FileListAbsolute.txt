@@ -1,0 +1,5 @@
+C:\WhiteTools\WhiteTools\Services\FileService\bin\Debug\FileService.dll
+C:\WhiteTools\WhiteTools\Services\FileService\bin\Debug\FileService.pdb
+C:\WhiteTools\WhiteTools\Services\FileService\obj\Debug\FileService.csprojResolveAssemblyReference.cache
+C:\WhiteTools\WhiteTools\Services\FileService\obj\Debug\FileService.dll
+C:\WhiteTools\WhiteTools\Services\FileService\obj\Debug\FileService.pdb

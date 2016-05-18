@@ -1,0 +1,7 @@
+C:\WhiteTools\WhiteTools\UnitTest\bin\Debug\UnitTest.dll
+C:\WhiteTools\WhiteTools\UnitTest\bin\Debug\UnitTest.pdb
+C:\WhiteTools\WhiteTools\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\WhiteTools\WhiteTools\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\WhiteTools\WhiteTools\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\WhiteTools\WhiteTools\UnitTest\obj\Debug\UnitTest.dll
+C:\WhiteTools\WhiteTools\UnitTest\obj\Debug\UnitTest.pdb
